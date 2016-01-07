@@ -44,14 +44,14 @@ are slightly astandard:
 ![Varmilo VB87M media keys](images/varmilo_media_keys.jpg)
 
 * <kbd>Fn</kbd>+<kbd>F7</kbd> = Mute
-* <kbd>Fn</kbd>+<kbd>F8</kbd> = Volume Up
-* <kbd>Fn</kbd>+<kbd>F9</kbd> = Volume Down
-* <kbd>Fn</kbd>+<kbd>F10</kbd> = Play/Pause
-* <kbd>Fn</kbd>+<kbd>F11</kbd> = Rewind/Previous Track
-* <kbd>Fn</kbd>+<kbd>F12</kbd> = Fast Forward/Next Track
+* <kbd>Fn</kbd>+<kbd>F8</kbd> = Volume up
+* <kbd>Fn</kbd>+<kbd>F9</kbd> = Volume down
+* <kbd>Fn</kbd>+<kbd>F10</kbd> = Play/pause
+* <kbd>Fn</kbd>+<kbd>F11</kbd> = Rewind/previous track
+* <kbd>Fn</kbd>+<kbd>F12</kbd> = Fast forward/next track
 * <kbd>Print Screen</kbd> = <kbd>F13</kbd>
-* <kbd>Scroll Lock</kbd> = Brightness Down (does _not_ register as <kbd>F14</kbd>)
-* <kbd>Pause</kbd> = Brightness Up (does _not_ register as <kbd>F15</kbd>)
+* <kbd>Scroll Lock</kbd> = Brightness down (does _not_ register as <kbd>F14</kbd>)
+* <kbd>Pause</kbd> = Brightness up (does _not_ register as <kbd>F15</kbd>)
 
 Finally, there are a few keyboard-specific shortcuts, most usefully:
 
