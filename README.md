@@ -36,6 +36,8 @@ grey, with o-rings to slightly dampen key click, and in a Mac layout.
 The raised bumps on <kbd>F</kbd> and <kbd>J</kbd> are more noticeable
 than those on the keys that ship with the Varmilo VB87M.
 
+![WASD Keyboard keycaps](images/wasd_keycaps.jpg)
+
 WASD Keyboards also offers a
 [Mac hotkey shortcuts keycap set](http://www.wasdkeyboards.com/index.php/products/keycap-mod-packs/mac-hotkey-shortcuts-cherry-mx-keycap-set.html)
 for normal Mac keyboards; however, the media keys on the Varmilo VB87M
