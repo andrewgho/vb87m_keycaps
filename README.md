@@ -63,15 +63,16 @@ WASD Keyboards allows customers to upload a
 when ordering a set of keycaps. This repository contains a custom layout
 that puts the media keys in the correct spots for the Varmilo VB87M,
 adds power and Bluetooth icons for the keyboard-specific shortcuts.
-changes <kbd>caps lock</kbd> to <kbd>control</kbd>, and uses uppercase
+changes <kbd>caps lock</kbd> to <kbd>control</kbd> (mapped via
+[Seil](https://pqrs.org/osx/karabiner/seil.html.en)), and uses uppercase
 for the function keys, _i.e.,_ <kbd>F1</kbd> instead of <kbd>f1</kbd>.
 
 Install
 -------
 
-WASD Keyboards custom layouts are SVG files, and they recommend using
-[Inkscape](https://inkscape.org/) to edit them. Local copies of open
-source installation files:
+WASD Keyboards custom layouts are SVG files, and WASD Keyboards
+recommends using [Inkscape](https://inkscape.org/) to edit them.
+Local copies of open source installation files:
 
 * [Inkscape](install/Inkscape-0.91-1-x11-10.7-x86_64.dmg) (GPLv2)
 * [XQuartz](install/XQuartz-2.7.8.dmg) (APSL)
@@ -79,7 +80,7 @@ source installation files:
 If you want to edit any of the Mac layout keycap text, you will also
 need the proprietary
 [VAG Rounded Light](http://www.linotype.com/1562959/vag-rounded-light-product.html)
-font, at 9pt.
+font (keycaps use size 9pt).
 
 Related openly licensed media:
 
@@ -115,6 +116,27 @@ Add new `Bluetooth Icon` layer:
 * Add Bluetooth icon (foreground only, stroked to black) to <kbd>→</kbd>
 
 Icons are scaled to match mute icon height (7.998px) as reference.
+
+To-Do
+-----
+
+I rarely use the media keys other than volume controls, and
+<kbd>F13</kbd> doesn't do anything by default on my OS X configuration,
+so it would be nice to figure out how to remap <kbd>F14</kbd> and
+<kbd>F15</kbd> to have this configuration (no <kbd>Fn</kbd> modifier
+needed):
+
+* <kbd>F13</kbd> = mute
+* <kbd>F14</kbd> = volume down
+* <kbd>F15</kbd> = volume up
+
+Neither the OS X keyboard configuration tool nor
+[Karabiner](https://pqrs.org/osx/karabiner/)
+seem to be able to recognize or remap <kbd>F14</kbd> or <kbd>F15</kbd>,
+but the following hints might help:
+
+* http://www.xlr8yourmac.com/tips/remap_function_keys.html
+* hints.macworld.com/article.php?story=20050801052917667/
 
 Author
 ------
