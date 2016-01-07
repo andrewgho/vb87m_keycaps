@@ -87,6 +87,10 @@ Related openly licensed media:
 * [Bluetooth icon vector graphic](Bluetooth_white_tray_icon.svg) (public domain, from [Wikipedia source](https://en.wikipedia.org/wiki/File:Bluetooth_white_tray_icon.svg))
 * [WASD Keyboard layout template](wasd-inkscape-104-10.23.2015.svg) (license unspecified, from [WASD custom layout template file download page](http://support.wasdkeyboards.com/customer/portal/kb_article_attachments/67914/original.svg?1445632730))
 
+Related projects:
+
+* https://github.com/aasmith/mac-wasd-keyboard
+
 Changes
 -------
 
