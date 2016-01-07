@@ -140,7 +140,7 @@ seem to be able to recognize or remap <kbd>F14</kbd> or <kbd>F15</kbd>,
 but the following hints might help:
 
 * http://www.xlr8yourmac.com/tips/remap_function_keys.html
-* hints.macworld.com/article.php?story=20050801052917667/
+* http://hints.macworld.com/article.php?story=20050801052917667
 
 Author
 ------
