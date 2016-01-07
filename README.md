@@ -5,8 +5,9 @@ This is a
 [WASD Keyboards custom layout](wasd-vb87m-layout.svg)
 for an
 [87 key Cherry MX keycap set from WASD Keyboards,](http://www.wasdkeyboards.com/index.php/products/keycap-set/87-key-cherry-mx-keycap-set.html)
-optimized for the Varmilo VB87M Bluetooth keyboard, one of the few
-mechanical keyboards that is also wireless.
+optimized for the
+[Varmilo VB87M Bluetooth keyboard,](https://www.massdrop.com/buy/varmilo-vb87m-bluetooth)
+one of the few mechanical keyboards that is also wireless.
 
 Description
 -----------
@@ -14,8 +15,7 @@ Description
 The Varmilo VB87M is one of the rare keyboards that offers both
 mechanical key switches as well as wireless connectivity, and one of the
 even rarer ones that is nominally Mac compatible. It can periodically be
-[purchased through Massdrop](https://www.massdrop.com/buy/varmilo-vb87m-bluetooth)
-for around USD $130.
+purchased through [Massdrop](https://www.massdrop.com/) for around $130.
 
 The model I ordered is black, with Gateron Brown switches and light
 grey, top-printed dye sub keycaps:
@@ -31,7 +31,7 @@ The keyboard has some problems in the look and feel department:
 
 A replacement keycap set from
 [WASD Keyboards](http://www.wasdkeyboards.com/)
-can address all of these problems: keys are available in black or dark
+addresses all of these problems: keys are available in black or dark
 grey, with o-rings to slightly dampen key click, and in a Mac layout.
 The raised bumps on <kbd>F</kbd> and <kbd>J</kbd> are more noticeable
 than those on the keys that ship with the Varmilo VB87M.
@@ -64,7 +64,7 @@ when ordering a set of keycaps. This repository contains a custom layout
 that puts the media keys in the correct spots for the Varmilo VB87M,
 adds power and Bluetooth icons for the keyboard-specific shortcuts.
 changes <kbd>caps lock</kbd> to <kbd>control</kbd>, and uses uppercase
-for the function keys (<kbd>F1</kbd> instead of <kbd>f1</kbd>).
+for the function keys, _i.e.,_ <kbd>F1</kbd> instead of <kbd>f1</kbd>.
 
 Install
 -------
@@ -115,3 +115,46 @@ Add new `Bluetooth Icon` layer:
 * Add Bluetooth icon (foreground only, stroked to black) to <kbd>→</kbd>
 
 Icons are scaled to match mute icon height (7.998px) as reference.
+
+Author
+------
+
+Andrew Ho (<andrew@zeuscat.com>)
+
+License
+-------
+
+Local copies of Inkscape, XQuartz, and the WASD Keyboards custom layout
+template are covered under their respective licenses. The Bluetooth icon
+is public domain. The other files authored by Andrew are covered by the
+following 3-clause BSD license:
+
+    Copyright (c) 2016, Andrew Ho.
+    All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions
+    are met:
+
+    Redistributions of source code must retain the above copyright notice,
+    this list of conditions and the following disclaimer.
+
+    Redistributions in binary form must reproduce the above copyright
+    notice, this list of conditions and the following disclaimer in the
+    documentation and/or other materials provided with the distribution.
+
+    Neither the name of the author nor the names of its contributors may
+    be used to endorse or promote products derived from this software
+    without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+    "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+    LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+    A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+    HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+    SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+    LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+    DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+    THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+    (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+    OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
